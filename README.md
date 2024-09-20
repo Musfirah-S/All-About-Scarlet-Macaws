@@ -13,6 +13,7 @@
         <li>Their beaks are powerful enough to crack a coconut shell</li>
         <li>Most of them are left-footed because the right side of their brains are more developed</li>
         <li>Their life spans can reach up to 40-50 years in the wild</li>
+  <br>
     <img src="https://images.pexels.com/photos/1618424/pexels-photo-1618424.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Free Scarlet Macaw Stock Photo"/>
  </body>
 </html>
