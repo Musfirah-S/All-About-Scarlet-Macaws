@@ -1,5 +1,4 @@
 # All About Scarlet Macaws
-<!DOCTYPE html>
 <html>
   <body>
 <p>Come visit them <a href= "https://lazoo.org/explore-your-zoo/our-animals/birds/macaw/" target="_blank"> here! </a></p>
