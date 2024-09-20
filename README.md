@@ -1,4 +1,4 @@
-Theme: All About Scarlet Macaws
+# All About Scarlet Macaws
 <!DOCTYPE html>
 <html>
   <body>
