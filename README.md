@@ -3,7 +3,7 @@
   <body>
 <p>Come visit them <a href= "https://lazoo.org/explore-your-zoo/our-animals/birds/macaw/" target="_blank"> here! </a></p>
     <h1>What Are They?</h1>
-      <p>Scarlet Macaws are the largest parrots in the world. They are beautifully colorful birds that can reach up to a size of about 33 inches. They are omnivores as their diet consists of bugs, nuts, leaves, berries, and seeds from the rainforest.</p>
+      <p>Scarlet Macaws are the largest parrots in the world. They are beautifully colorful birds that can reach up to a size of about 33 inches. They are herbivores as their diet consists of nuts, leaves, berries, and seeds from the rainforest.</p>
          <img src="https://images.unsplash.com/photo-1592737515832-21e32df75c1d?fm=jpg&amp;q=60&amp;w=3000&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="red and blue bird on brown tree branch"/>
     <h1>Where do they Live?</h1>
       <p>Scarlet Macaws are usually found in Southern Mexico to Peru also including Bolivia, Brazil, and Trinidad. They prefer to spend their time in tall forests near rivers.</p>
